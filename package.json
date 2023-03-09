@@ -1,7 +1,6 @@
 {
-  "name": "coding-challenge-events-list",
+  "name": "events-list-challenge",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@colony/colony-js": "^2.0.2",
     "@testing-library/jest-dom": "^5.16.4",
